@@ -17,7 +17,7 @@ npm run dev
 npm run dev -- --open
 ```
 
-To commit, create your own branch with a meaningfull name and commit to it, then make a pull request.
+To contribute, create your own branch with a meaningfull name and commit to it, then make a pull request.
 
 ## Building
 
